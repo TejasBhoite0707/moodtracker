@@ -33,7 +33,7 @@ export default function RootLayout({ children }) {
         className=''>
         <p
           className={
-            "text-indigo-500 duration-200 hover:opacity-70 " + fugaz.className
+            "text-blue-500 duration-200 hover:opacity-70 " + fugaz.className
           }>
           &copy;{new Date().getFullYear()} Pranav Pise
         </p>
